@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "aqi_homework",
+            "cwd": "aqi_homework",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "aqi_homework (profile mode)",
+            "cwd": "aqi_homework",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "aqi_homework (release mode)",
+            "cwd": "aqi_homework",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
